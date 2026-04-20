@@ -17,3 +17,6 @@ My personal portfolio built with Vue 3 and Tailwind CSS.
 npm install
 npm run dev
 \```
+
+## Live now, Check it out!
+[Click! jimmsdev.app](https://jimmsdev.vercel.app/)
